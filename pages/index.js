@@ -82,9 +82,7 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-    #  <div className = {styles.banner}>
-        <p>Next.js template available on <a href="https://github.com/zahidkhawaja/whisper-nextjs" target="_blank" rel="noopener noreferrer">GitHub</a></p>
-      </div>
+
 
       <main className={styles.main}>
         <h1 className={styles.title}>
